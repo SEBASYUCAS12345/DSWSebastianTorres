@@ -1,2 +1,0 @@
-# DSWSebastianTorres
-Index.html
